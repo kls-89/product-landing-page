@@ -1,7 +1,7 @@
 # product-landing-page
 FCC Product Landing Page
 
-I created a landing page for a **Sidewalk Serenades**, a fictional company that provides users with on-demand street music performances. This page was created with HTML/CSS only. Down the road, I'd like to transition the page into an full SPA, where users can login, create profiles, and contact performers through the application. 
+I created a landing page for **Sidewalk Serenades**, a fictional company that provides users with on-demand street music performances. This page was created with HTML/CSS only. Down the road, I'd like to transition the page into an full SPA, where users can login, create profiles, and contact performers through the application. 
 
 **Original Project Requirements**
 Responsive Web Design Projects - Build a Product Landing Page
